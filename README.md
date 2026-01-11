@@ -57,11 +57,3 @@ To interact with this AI Instructor:
 - Then, it will design a syllabus of that topic for you.
 - Finally, feel free to interact with your instructor, you can ask them to teach you from that syllabus.
 
-## Contact Us
-
-For questions, you can [contact the repo author](mailto:huynhquynhanh2003@gmail.com).
-
-
-## Contributing
-
-Contributions are highly encouraged!
